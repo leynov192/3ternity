@@ -16,7 +16,7 @@ const client = new tmi.Client({
     username: 'leynov192',
     password: 'oauth:hy6g3vgzcdhvjtgunzoxhwec59kmn1'
   },
-  channels: ["leynov192"] 
+  channels: ["3ternityyyyy"] 
 });
 client.connect();
 
